@@ -1,6 +1,7 @@
 # Energy-based Out-of-Distribution Detection
 
 This is an **unofficial** PyTorch implementation of NIPS2020-paper: 
+
 [Energy-based Out-of-distribution Detection (Liu et al, 2020)](https://proceedings.neurips.cc/paper/2020/file/f5496252609c43eb8a3d147ab9b9c006-Paper.pdf)
 
 **Import Note**
